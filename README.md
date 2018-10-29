@@ -13,7 +13,7 @@ hack VIP for chrome-extension 谷歌访问助手
         * 可以将插件后缀名从.crx修改为.zip，解压并在扩展程序界面加载已解压的扩展程序...，一劳永逸
         * 也可以重新安装插件
 		* 最简单的方法，直接安装老版本的[chrome](https://github.com/searKing/ggfwzs_in_hack/tree/master/tools/)
-+ 如果长时间运行后，提示服务器运行时间超过24小时
++ 如果长时间运行后，提示服务器运行时间超过24小时[2.3.0_0版本后，此限制已被去除]
     - 方法一
         * 重启chrome
     - 方法二

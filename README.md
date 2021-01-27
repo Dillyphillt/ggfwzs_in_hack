@@ -1,5 +1,5 @@
 # ggfwzs_in_hack
-hack VIP for chrome-extension 谷歌访问助手 
+hack VIP for chrome-extension [谷歌访问助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/fjbknnledpckpbjcglogolokonffggpc?hl=zh-CN) 
 + 仅为香港地区用户提供谷歌搜索，谷歌chrome商店，gmail邮箱提供加速服务，解决偶尔打不开的问题
 + 仅为学生，外贸人群，chrome扩展商店用户等需要的用户，提供加速服务。
 + 不可避免有可能短暂的无法使用，还请理解，我们会及时维护，保证95%的可用率
